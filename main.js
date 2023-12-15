@@ -31,7 +31,9 @@ const blacklist = [
     "support",
     "deal",
     "discount",
-    "today"
+    "today",
+    "expires",
+    "$",
 ]
 
 function sleep(ms) {
